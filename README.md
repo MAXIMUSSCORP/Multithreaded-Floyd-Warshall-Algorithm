@@ -6,7 +6,7 @@ This project implements the Floyd-Warshall algorithm in both single-threaded and
 
 ## Group Members
 
-- Varshitha Venkatesh []()
+- Varshitha Venkatesh [Varshiiii](https://github.com/varshivenkatesh)
 - Mohammad Zaid Khan [MAXIMUSSCORP](https://github.com/MAXIMUSSCORP)
 
 ## File Structure
